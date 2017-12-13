@@ -10,6 +10,7 @@ public class Hart
 	public int getHartslag() {
 		return this.hartslag;
 	}
+	// poep saus
 	
 	public int getAantalDefibrilleerProgingen() {
 		return this.aantalDefibrilleerPogingen;
